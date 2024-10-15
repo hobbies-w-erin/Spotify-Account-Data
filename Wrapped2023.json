@@ -1,0 +1,447 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 848,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:6gBvpdkTiBkS5cGQgM68gr",
+        "monthlyStreams": [
+          {
+            "month": 5,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 1
+              }
+            ]
+          },
+          {
+            "month": 10,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 5
+              },
+              {
+                "period": 2,
+                "numStreams": 6
+              }
+            ]
+          },
+          {
+            "month": 6,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 23
+              }
+            ]
+          },
+          {
+            "month": 9,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 19
+              }
+            ]
+          },
+          {
+            "month": 7,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 9
+              },
+              {
+                "period": 2,
+                "numStreams": 20
+              }
+            ]
+          },
+          {
+            "month": 3,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 7
+              }
+            ]
+          },
+          {
+            "month": 8,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 3
+              }
+            ]
+          },
+          {
+            "month": 4,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 10
+              },
+              {
+                "period": 2,
+                "numStreams": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "artistUri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP",
+        "monthlyStreams": [
+          {
+            "month": 5,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 2
+              }
+            ]
+          },
+          {
+            "month": 10,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 2
+              },
+              {
+                "period": 2,
+                "numStreams": 4
+              }
+            ]
+          },
+          {
+            "month": 6,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 2
+              },
+              {
+                "period": 2,
+                "numStreams": 2
+              }
+            ]
+          },
+          {
+            "month": 9,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 9
+              },
+              {
+                "period": 2,
+                "numStreams": 1
+              }
+            ]
+          },
+          {
+            "month": 7,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 13
+              },
+              {
+                "period": 2,
+                "numStreams": 40
+              }
+            ]
+          },
+          {
+            "month": 11,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 5
+              }
+            ]
+          },
+          {
+            "month": 8,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 13
+              },
+              {
+                "period": 2,
+                "numStreams": 5
+              }
+            ]
+          },
+          {
+            "month": 4,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 1
+              },
+              {
+                "period": 2,
+                "numStreams": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "artistUri": "spotify:artist:57LYzLEk2LcFghVwuWbcuS",
+        "monthlyStreams": [
+          {
+            "month": 5,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 1
+              }
+            ]
+          },
+          {
+            "month": 10,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 3
+              },
+              {
+                "period": 2,
+                "numStreams": 9
+              }
+            ]
+          },
+          {
+            "month": 6,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 21
+              }
+            ]
+          },
+          {
+            "month": 9,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 4
+              }
+            ]
+          },
+          {
+            "month": 7,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 2
+              },
+              {
+                "period": 2,
+                "numStreams": 3
+              }
+            ]
+          },
+          {
+            "month": 11,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 5
+              }
+            ]
+          },
+          {
+            "month": 8,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 10
+              },
+              {
+                "period": 2,
+                "numStreams": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "artistUri": "spotify:artist:3Y7RZ31TRPVadSFVy1o8os",
+        "monthlyStreams": [
+          {
+            "month": 5,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 4
+              },
+              {
+                "period": 1,
+                "numStreams": 18
+              }
+            ]
+          },
+          {
+            "month": 10,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 1
+              }
+            ]
+          },
+          {
+            "month": 6,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 2
+              },
+              {
+                "period": 2,
+                "numStreams": 8
+              }
+            ]
+          },
+          {
+            "month": 3,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 7
+              }
+            ]
+          },
+          {
+            "month": 11,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 5
+              }
+            ]
+          },
+          {
+            "month": 4,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "artistUri": "spotify:artist:7GN9PivdemQRKjDt4z5Zv8",
+        "monthlyStreams": [
+          {
+            "month": 5,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 1
+              }
+            ]
+          },
+          {
+            "month": 6,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 1
+              },
+              {
+                "period": 2,
+                "numStreams": 1
+              }
+            ]
+          },
+          {
+            "month": 3,
+            "biweeklyStreams": [
+              {
+                "period": 2,
+                "numStreams": 17
+              }
+            ]
+          },
+          {
+            "month": 8,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 3
+              }
+            ]
+          },
+          {
+            "month": 4,
+            "biweeklyStreams": [
+              {
+                "period": 1,
+                "numStreams": 10
+              },
+              {
+                "period": 2,
+                "numStreams": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "topArtistMilliseconds": 13025084,
+    "topArtistFanPercentage": 0.0043679825
+  },
+  "topGenres": {
+    "topGenres": [
+      "r&b",
+      "alternative r&b",
+      "rap",
+      "pop",
+      "indie r&b"
+    ],
+    "numberGenres": 22
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+      "spotify:show:6RLX4Ns3kRUQiJi7RZl4NA",
+      "spotify:show:7akEYbvLc5CpTMOmJpfUgS",
+      "spotify:show:7kPXrtK66kXyiqpKTtsqNN",
+      "spotify:show:4JaUYskqSSD3dXXngWbgwx",
+      "spotify:show:70MbtC06VwwDdKajHwFB8n"
+    ],
+    "topPodcastMilliseconds": 52721222,
+    "topPodcastPercentage": 0.19564101,
+    "totalPodcastMilliseconds": 182039263
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:7aVKQJZwdqyEPkvKSyEuxj",
+      "spotify:track:7zFXmv6vqI4qOt4yGf3jYZ",
+      "spotify:track:75FAk9JQHHLecKEZ8OZxpK",
+      "spotify:track:70TQ48ZMkkONOXSOiIk4pz",
+      "spotify:track:4iZ4pt7kvcaH6Yo8UoZ4s2"
+    ],
+    "topTrackPlayCount": 18,
+    "topTrackFirstPlayedDate": "2023-05-04",
+    "distinctTracksPlayed": 1311
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 647419520,
+    "mostListenedDay": "2023-10-18",
+    "mostListenedDayMinutes": 483.58313,
+    "percentGreaterThanWorldwideUsers": 69.89396
+  },
+  "darkMode": {
+    "creatureOfHabit": "OBSESSIVE"
+  }
+}

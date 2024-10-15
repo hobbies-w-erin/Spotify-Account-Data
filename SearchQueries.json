@@ -1,0 +1,634 @@
+[
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-09T00:58:09.683Z[UTC]",
+    "searchQuery" : "5",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-09T00:58:09.767Z[UTC]",
+    "searchQuery" : "5",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-09T00:58:10.211Z[UTC]",
+    "searchQuery" : "5-",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-09T00:58:10.276Z[UTC]",
+    "searchQuery" : "5-",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-09T00:58:10.866Z[UTC]",
+    "searchQuery" : "5-7",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-09T00:58:11.294Z[UTC]",
+    "searchQuery" : "5-7",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4dU9xcBNjEmv54f7CiiLyA"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-07-10T03:44:01.178Z[UTC]",
+    "searchQuery" : "soldi",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-10T03:44:01.960Z[UTC]",
+    "searchQuery" : "soldier",
+    "searchInteractionURIs" : [
+      "spotify:track:3xtiXNDbSKxy20I7D6vFUg",
+      "spotify:playlist:3zzalOKus1sKRfx9XbLSm6"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-07-10T23:15:17.900Z[UTC]",
+    "searchQuery" : "steve lacy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-16T20:42:44.303Z[UTC]",
+    "searchQuery" : "I know there's an email that hopes to find me well",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-18T00:26:27.864Z[UTC]",
+    "searchQuery" : "baby i'm yours",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-18T00:26:32.796Z[UTC]",
+    "searchQuery" : "Baby I'm Yours*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-19T03:06:50.392Z[UTC]",
+    "searchQuery" : "don",
+    "searchInteractionURIs" : [
+      "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-19T04:18:50.953Z[UTC]",
+    "searchQuery" : "cave",
+    "searchInteractionURIs" : [
+      "spotify:search:cavetown"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-19T04:18:52.230Z[UTC]",
+    "searchQuery" : "cavetown",
+    "searchInteractionURIs" : [
+      "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8",
+      "spotify:artist:2hR4h1Cao2ueuI7Cx9c7V8",
+      "spotify:playlist:37i9dQZF1DX59NCqCqJtoH"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-07-20T00:41:21.568Z[UTC]",
+    "searchQuery" : "jhené monáe big boss",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-24T04:28:19.144Z[UTC]",
+    "searchQuery" : "and i l",
+    "searchInteractionURIs" : [
+      "spotify:track:65vdMBskhx3akkG9vQlSH1",
+      "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-24T04:46:13.786Z[UTC]",
+    "searchQuery" : "bro",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX4hpot8sYudB"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-25T17:26:19.730Z[UTC]",
+    "searchQuery" : "logi",
+    "searchInteractionURIs" : [
+      "spotify:search:lofi+beats"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-07-25T17:26:21.201Z[UTC]",
+    "searchQuery" : "lofi beats",
+    "searchInteractionURIs" : [
+      "spotify:playlist:0vvXsWCC9xrXsKd4FyS8kM"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-07-26T02:28:52.207Z[UTC]",
+    "searchQuery" : "Bachata Classics*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-07-29T13:46:22.200Z[UTC]",
+    "searchQuery" : "The Ants Go Marching*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-08-02T21:13:42.433Z[UTC]",
+    "searchQuery" : "We just got a letter",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-08-02T21:13:43.477Z[UTC]",
+    "searchQuery" : "We just got a letter from Blue's Clues",
+    "searchInteractionURIs" : [
+      "spotify:track:6ieaiwdDYJlACuYR5pyBcg"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-08-02T21:13:47.247Z[UTC]",
+    "searchQuery" : "We just got a letter from Blue's Clues￼",
+    "searchInteractionURIs" : [
+      "spotify:track:73vWnvPaf0yNifYIkadY9N",
+      "spotify:track:73vWnvPaf0yNifYIkadY9N",
+      "spotify:track:27TJ8tz1R8tNMRjpImbHpF",
+      "spotify:track:27TJ8tz1R8tNMRjpImbHpF",
+      "spotify:track:2WI7B6ishu8T6edm0BihJS",
+      "spotify:track:4J4wYsDnJxldGxAiFpIIzT",
+      "spotify:episode:0kZeLwokab3Hin74pnJYzH"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-08-23T08:17:21.782Z[UTC]",
+    "searchQuery" : "br",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX4hpot8sYudB",
+      "spotify:album:2lIZef4lzdvZkiiCzvPKj7"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-08-24T19:30:56.745Z[UTC]",
+    "searchQuery" : "sexxy",
+    "searchInteractionURIs" : [
+      "spotify:artist:3DbwFQlvLxRSi2uX8mf81A"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-08-25T04:36:46.708Z[UTC]",
+    "searchQuery" : "j",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-08-27T14:14:53.772Z[UTC]",
+    "searchQuery" : "psychology",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-08-27T14:18:40.247Z[UTC]",
+    "searchQuery" : "jack harlow",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-08-29T00:21:28.875Z[UTC]",
+    "searchQuery" : "the beatles here comes the sun",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-03T14:24:02.566Z[UTC]",
+    "searchQuery" : "psychology of your 20s",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-07T00:54:01.454Z[UTC]",
+    "searchQuery" : "all about that bass",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-07T18:44:50.063Z[UTC]",
+    "searchQuery" : "tell ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-09-07T18:44:51.163Z[UTC]",
+    "searchQuery" : "tell me ",
+    "searchInteractionURIs" : [
+      "spotify:search:tell+me+why"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-09-07T18:45:04.830Z[UTC]",
+    "searchQuery" : "tell me lie",
+    "searchInteractionURIs" : [
+      "spotify:search:tell+me+lies%2C+tell+me+sweet+little+lies"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-09-07T18:45:06.315Z[UTC]",
+    "searchQuery" : "tell me lies, tell me sweet little lies",
+    "searchInteractionURIs" : [
+      "spotify:track:08o75xMKmGrKny6GsXrNJW"
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-10T14:07:57.343Z[UTC]",
+    "searchQuery" : "psycho",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-14T00:40:40.531Z[UTC]",
+    "searchQuery" : "sam smith la la la",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-14T00:44:11.877Z[UTC]",
+    "searchQuery" : "sam smith",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:44:15.792Z[UTC]",
+    "searchQuery" : "This Is Sam Smith*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:44:23.565Z[UTC]",
+    "searchQuery" : "sam smith latch",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:44:26.712Z[UTC]",
+    "searchQuery" : "Latch*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:45:16.452Z[UTC]",
+    "searchQuery" : "sam smith latch",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-14T00:45:30.625Z[UTC]",
+    "searchQuery" : "latch",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:45:41.743Z[UTC]",
+    "searchQuery" : "sam smith latch",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:51:48.573Z[UTC]",
+    "searchQuery" : "john lennon live imagine",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-14T00:51:53.976Z[UTC]",
+    "searchQuery" : "Imagine - Remastered 2010*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-15T15:16:37.597Z[UTC]",
+    "searchQuery" : "young ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-15T15:16:38.023Z[UTC]",
+    "searchQuery" : "young g",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-15T15:16:38.303Z[UTC]",
+    "searchQuery" : "young gr",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-09-15T15:16:38.611Z[UTC]",
+    "searchQuery" : "young gra",
+    "searchInteractionURIs" : [
+      "spotify:track:5GxnROd93Y7NGt2ci0TwBw"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-17T03:03:07.279Z[UTC]",
+    "searchQuery" : "the dr li",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-17T03:03:11.155Z[UTC]",
+    "searchQuery" : "the dr lu",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-09-17T03:03:12.785Z[UTC]",
+    "searchQuery" : "the dr luke hob",
+    "searchInteractionURIs" : [
+      "spotify:show:6x71tTngQwOk190ntdrXSo",
+      "spotify:show:6x71tTngQwOk190ntdrXSo"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-17T07:41:09.327Z[UTC]",
+    "searchQuery" : "b",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2024-09-17T07:41:13.086Z[UTC]",
+    "searchQuery" : "brai",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-09-17T07:41:13.643Z[UTC]",
+    "searchQuery" : "br",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX4hpot8sYudB"
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-19T00:16:51.764Z[UTC]",
+    "searchQuery" : "family reunion",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-19T00:19:25.151Z[UTC]",
+    "searchQuery" : "family reunion",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-19T00:19:30.099Z[UTC]",
+    "searchQuery" : "Family Reunion*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-21T04:17:55.809Z[UTC]",
+    "searchQuery" : "living for the love of you",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-25T13:44:37.691Z[UTC]",
+    "searchQuery" : "candy rain",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-28T21:00:27.299Z[UTC]",
+    "searchQuery" : "beautiful dreamer",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-28T21:03:38.289Z[UTC]",
+    "searchQuery" : "the bourbon brothers",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-28T21:03:44.850Z[UTC]",
+    "searchQuery" : "Episode 71 - Bigger Isn't Always Better*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-30T13:50:20.620Z[UTC]",
+    "searchQuery" : "flamingo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-30T14:03:41.746Z[UTC]",
+    "searchQuery" : "billie eilish ocean eyes",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-30T14:03:46.437Z[UTC]",
+    "searchQuery" : "ocean eyes*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-30T14:07:25.999Z[UTC]",
+    "searchQuery" : "for the healthy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-09-30T14:07:32.496Z[UTC]",
+    "searchQuery" : "bridging the gap between who you are and who you're becoming.*",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "WIN32_X86",
+    "searchTime" : "2024-09-30T23:23:02.383Z[UTC]",
+    "searchQuery" : "for the healthy",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-01T03:05:36.971Z[UTC]",
+    "searchQuery" : "pianochick7309",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-01T03:05:45.275Z[UTC]",
+    "searchQuery" : "pianochick7309",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-01T03:43:11.757Z[UTC]",
+    "searchQuery" : "autun",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-01T03:43:14.958Z[UTC]",
+    "searchQuery" : "autumn in ",
+    "searchInteractionURIs" : [
+      "spotify:search:autumn+in+new+york"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-01T03:43:26.775Z[UTC]",
+    "searchQuery" : "autumn in new york ella",
+    "searchInteractionURIs" : [
+      "spotify:track:0f2489MzoisF9pKduawvce",
+      "spotify:track:1PvnnMHzCLVK1p5O9JM6s5"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-01T04:49:49.201Z[UTC]",
+    "searchQuery" : "mandeer",
+    "searchInteractionURIs" : [
+      "spotify:playlist:3eYLYVJRlRmSsvIN7czRcQ",
+      "spotify:track:2nxQsbR0Cqy4MPI6vftwyX",
+      "spotify:track:5ytU0p3E6f2omBbneHhH0M",
+      "spotify:playlist:0pD6Ucbs9IVZ2rUVBFMh7t"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-02T03:51:20.420Z[UTC]",
+    "searchQuery" : "blake danger",
+    "searchInteractionURIs" : [
+      "spotify:user:123689032"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-02T03:53:06.257Z[UTC]",
+    "searchQuery" : "honeysantos",
+    "searchInteractionURIs" : [
+      "spotify:user:honeysantos2206",
+      "spotify:user:31ifugmwtzniubjh5wdgfz3j7qtq",
+      "spotify:artist:1cUfMJtWJXfhTQvYGJQtaF",
+      "spotify:user:31bsr25dxx77t243athlc7rkwseq"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-02T03:53:54.696Z[UTC]",
+    "searchQuery" : "sennyd",
+    "searchInteractionURIs" : [
+      "spotify:user:senyaldas"
+    ]
+  },
+  {
+    "platform" : "IPHONE",
+    "searchTime" : "2024-10-02T04:12:54.386Z[UTC]",
+    "searchQuery" : "haleybernardo",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-10-03T20:08:12.258Z[UTC]",
+    "searchQuery" : "the jonas brothers",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "",
+    "searchTime" : "2024-10-03T20:08:18.808Z[UTC]",
+    "searchQuery" : "This Is Jonas Brothers*",
+    "searchInteractionURIs" : [
+    ]
+  }
+]
